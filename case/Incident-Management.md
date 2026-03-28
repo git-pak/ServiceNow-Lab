@@ -1,4 +1,4 @@
-# Incident Management Lab
+# Incident and Knowledge Management Lab
 
 ## Overview
 This lab demonstrates hands-on experience with ServiceNow ITSM workflows and structured network troubleshooting. The scenario simulates a real-world mobile support issue where a user cannot access corporate email on an iPhone.
@@ -146,7 +146,11 @@ A structured, layered approach was used to isolate the issue:
 ![Resolution Notes](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/ticket%20closed.png)
 ---
 
-
+## Knowledge Base Article
+Created a reusable guide:
+**"Fix: Cannot Access Corporate Email on iPhone"**
+![Article creation](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/how%20to%20create%20article.png)
+![New knowledge record](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/knowledge%20new%20record.png)
 
 ---
 
