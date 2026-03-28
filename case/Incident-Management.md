@@ -42,6 +42,7 @@ The incident was investigated using a hypothetical layered troubleshooting appro
 - **Description:** User unable to sync or access corporate email via mobile device  
 - **Urgency:** High (business-impacting issue)
 
+![Incident Creation](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/create%20incident%20ticket.png)
 ---
 
 ### 3. Incident Resolution (Help Desk Perspective)
@@ -49,7 +50,7 @@ The incident was investigated using a hypothetical layered troubleshooting appro
 - Impersonated: `Beth Anglin`
 - Accessed **Service Operations Workspace**
 - Located and investigated the incident
-
+![locate ticket as admin](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/log%20in%20as%20admin%20and%20locate%20incident.png)
 ---
 
 ## Troubleshooting Methodology
@@ -141,6 +142,8 @@ A structured, layered approach was used to isolate the issue:
 
 - Incident marked as **Resolved**
 
+![Ticket closed and resolved](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/resolved%20and%20documented.png)
+![Resolution Notes](https://github.com/git-pak/ServiceNow-Lab/blob/main/images/ticket%20closed.png)
 ---
 
 
