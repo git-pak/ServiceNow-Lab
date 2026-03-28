@@ -1,4 +1,3 @@
-# ServiceNow-Lab
 # ServiceNow ITSM Lab – Incident Management & Automation
 
 ## Overview
